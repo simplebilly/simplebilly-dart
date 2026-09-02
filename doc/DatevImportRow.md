@@ -1,0 +1,32 @@
+# simplebilly_api.model.DatevImportRow
+
+## Load the model package
+```dart
+import 'package:simplebilly_api/api.dart';
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**account** | **String** |  | 
+**amount** | **String** |  | 
+**baseAmount** | **String** |  | 
+**baseCurrency** | **String** |  | 
+**bookingText** | **String** |  | 
+**buKey** | **String** |  | 
+**costCenter1** | **String** |  | 
+**costCenter2** | **String** |  | 
+**currency** | **String** |  | 
+**debitCredit** | **String** |  | 
+**discount** | **String** |  | 
+**documentDate** | **String** |  | 
+**documentField2** | **String** |  | 
+**documentNumber** | **String** |  | 
+**euCountryVatId** | **String** |  | 
+**euTaxRate** | **String** |  | 
+**exchangeRate** | **String** |  | 
+**oppositeAccount** | **String** |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

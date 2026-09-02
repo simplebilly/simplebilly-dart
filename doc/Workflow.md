@@ -1,0 +1,18 @@
+# simplebilly_api.model.Workflow
+
+## Load the model package
+```dart
+import 'package:simplebilly_api/api.dart';
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**actions** | **Object** |  | [optional] 
+**enabled** | **bool** |  | [optional] 
+**name** | **String** |  | 
+**triggerEvent** | **String** | Event that triggers the workflow, e.g. `order.paid`, `order.shipped`. | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

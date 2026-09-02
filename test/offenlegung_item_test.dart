@@ -1,0 +1,40 @@
+//
+// AUTO-GENERATED FILE, DO NOT MODIFY!
+//
+// @dart=2.18
+
+// ignore_for_file: unused_element, unused_import
+// ignore_for_file: always_put_required_named_parameters_first
+// ignore_for_file: constant_identifier_names
+// ignore_for_file: lines_longer_than_80_chars
+
+import 'package:simplebilly_api/api.dart';
+import 'package:test/test.dart';
+
+// tests for OffenlegungItem
+void main() {
+  // final instance = OffenlegungItem();
+
+  group('test OffenlegungItem', () {
+    // Ob die zugrunde liegenden Daten im System vorhanden sind.
+    // bool exists
+    test('to test the property `exists`', () async {
+      // TODO
+    });
+
+    // Bezeichnung des Offenlegungsbestandteils (§ 325 Abs. 1 HGB).
+    // String name
+    test('to test the property `name`', () async {
+      // TODO
+    });
+
+    // Woher der Bestandteil stammt bzw. fehlt.
+    // String source_
+    test('to test the property `source_`', () async {
+      // TODO
+    });
+
+
+  });
+
+}

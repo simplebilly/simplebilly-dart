@@ -1,0 +1,82 @@
+//
+// AUTO-GENERATED FILE, DO NOT MODIFY!
+//
+// @dart=2.18
+
+// ignore_for_file: unused_element, unused_import
+// ignore_for_file: always_put_required_named_parameters_first
+// ignore_for_file: constant_identifier_names
+// ignore_for_file: lines_longer_than_80_chars
+
+import 'package:simplebilly_api/api.dart';
+import 'package:test/test.dart';
+
+// tests for AiWorkerConfig
+void main() {
+  // final instance = AiWorkerConfig();
+
+  group('test AiWorkerConfig', () {
+    // bool autoReply
+    test('to test the property `autoReply`', () async {
+      // TODO
+    });
+
+    // DateTime createdAt
+    test('to test the property `createdAt`', () async {
+      // TODO
+    });
+
+    // String id
+    test('to test the property `id`', () async {
+      // TODO
+    });
+
+    // bool isActive
+    test('to test the property `isActive`', () async {
+      // TODO
+    });
+
+    // int maxToolCalls
+    test('to test the property `maxToolCalls`', () async {
+      // TODO
+    });
+
+    // String model
+    test('to test the property `model`', () async {
+      // TODO
+    });
+
+    // String name
+    test('to test the property `name`', () async {
+      // TODO
+    });
+
+    // String provider
+    test('to test the property `provider`', () async {
+      // TODO
+    });
+
+    // String systemPrompt
+    test('to test the property `systemPrompt`', () async {
+      // TODO
+    });
+
+    // String tenantId
+    test('to test the property `tenantId`', () async {
+      // TODO
+    });
+
+    // List<String> triggerOn (default value: const [])
+    test('to test the property `triggerOn`', () async {
+      // TODO
+    });
+
+    // DateTime updatedAt
+    test('to test the property `updatedAt`', () async {
+      // TODO
+    });
+
+
+  });
+
+}

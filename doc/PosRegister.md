@@ -1,0 +1,16 @@
+# simplebilly_api.model.PosRegister
+
+## Load the model package
+```dart
+import 'package:simplebilly_api/api.dart';
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**name** | **String** |  | 
+**status** | [**PosRegisterStatus**](PosRegisterStatus.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
